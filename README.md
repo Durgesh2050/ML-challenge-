@@ -43,4 +43,5 @@ ArrDelay15: A binary indicator that arrival was delayed by more than 15 minutes 
 
 Cancelled: A binary indicator that the flight was cancelled
 
+![ml challenge 1](https://user-images.githubusercontent.com/78895337/151803621-39895f90-7d3a-4b0e-b98d-63e7487dc1bf.png)
 
