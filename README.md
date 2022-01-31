@@ -1,4 +1,4 @@
-# ML-challenge-
+# Flights Data Exploration Challenge
 
 Microsoft learn 30 days to Data scientist 
 The dataset contains observations of US domestic flights in 2013, and consists of the following fields:
